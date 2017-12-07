@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511721292 source:c:\users\stany\dropbox\cashion penha\cpu p\updated labs\lab 12\main.cpp
+	<iostream>
+	<math.h>
+
+1512402519 source:g:\cpu p\updated labs\lab 12\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
